@@ -1,0 +1,19 @@
+{
+    "name": "enigmo/eventing",
+    "description": "Simple Events support.",
+    "type": "plugin",
+	"authors": [
+        {
+            "name": "Nikolay Stankov",
+            "email": "enigmo.blue@abv.bg"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Enigmo\\Eventing\\": "./src/"
+        },
+		"files": [
+			"./src/Scripts/Functions.php"
+		]
+    }
+}
