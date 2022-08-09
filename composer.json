@@ -12,8 +12,8 @@
         "psr-4": {
             "Enigmo\\Eventing\\": "./src/"
         },
-		"files": [
-			"./src/Scripts/Functions.php"
-		]
+	"files": [
+	    "./src/Scripts/Functions.php"
+	]
     }
 }
